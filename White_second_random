@@ -1,18 +1,18 @@
 {
 "data":{
-  "Google_Banner":"ca-app-pub-3940256099942544\/6300978111",
-   "Google_Intertitial":"ca-app-pub-3940256099942544\/1033173712",
-   "Google_Native":"ca-app-pub-3940256099942544\/2247696110",
-   "Google_Native_Banner":"ca-app-pub-3940256099942544\/2247696110",
-    "Google_Open":"ca-app-pub-3940256099942544/3419835294",
-	 "Google_Splash_intre":"ca-app-pub-3940256099942544\/1033173712",
-   "FB_Banner":"IMG_16_9_APP_INSTALL#3011693982286504_3122146901241211",
-   "FB_Intertitial":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-    "Facebook_Int_first":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-"Facebook_Int_exit":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-"Facebook_Int_exit_first":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-   "FB_Native":"IMG_16_9_APP_INSTALL#3011693982286504_3011695365619699",
-   "FB_Native_Banner":"IMG_16_9_APP_INSTALL#230807221472038_474481330437958",
-   "onback":"1"
+  "Google_Banner":" ",
+   "Google_Intertitial":" ",
+   "Google_Native":" ",
+   "Google_Native_Banner":" ",
+    "Google_Open":" ",
+	 "Google_Splash_intre":" ",
+   "FB_Banner":" ",
+   "FB_Intertitial":" ",
+    "Facebook_Int_first":" ",
+"Facebook_Int_exit":"",
+"Facebook_Int_exit_first":" ",
+   "FB_Native":"",
+   "FB_Native_Banner":" ",
+   "onback":""
 }
 }
