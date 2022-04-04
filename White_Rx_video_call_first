@@ -1,18 +1,18 @@
 {
 "data":{
-  "Google_Banner":" ",
-   "Google_Intertitial":" ",
-   "Google_Native":" ",
-   "Google_Native_Banner":" ",
-    "Google_Open":" ",
-	 "Google_Splash_intre":" ",
+  "Google_Banner":"ca-app-pub-5659667574138364/1118653700",
+   "Google_Intertitial":"ca-app-pub-5659667574138364/8919469717",
+   "Google_Native":"ca-app-pub-5659667574138364/4291611954",
+   "Google_Native_Banner":"ca-app-pub-5659667574138364/4291611954",
+    "Google_Open":"ca-app-pub-5659667574138364/8039285270",
+	 "Google_Splash_intre":"ca-app-pub-5659667574138364/8919469717",
    "FB_Banner":" ",
-   "FB_Intertitial":" ",
-    "Facebook_Int_first":" ",
-"Facebook_Int_exit":"",
-"Facebook_Int_exit_first":" ",
-   "FB_Native":"",
-   "FB_Native_Banner":" ",
-   "onback":""
+   "FB_Intertitial":"2818398898454657_2818441368450410",
+    "Facebook_Int_first":"2818398898454657_2820661921561688",
+"Facebook_Int_exit":"2818398898454657_2820662024895011",
+"Facebook_Int_exit_first":"2818398898454657_2820662104895003",
+   "FB_Native":"2818398898454657_2818441268450420",
+   "FB_Native_Banner":"2818398898454657_2818423715118842",
+   "onback":"1"
 }
 }
